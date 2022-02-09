@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Jenny Gross",
+      "title": "Rotterdam to Dismantle Part of Bridge for Jeff Bezos’ Superyacht - The New York Times",
+      "description": "The middle section of the Dutch port’s historic Koningshaven Bridge will be temporarily dismantled so that a boat being built for Jeff Bezos, the founder of Amazon, can traverse the city.",
+      "url": "https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/03/multimedia/3xp-bezos/3xp-bezos-facebookJumbo.jpg",
+      "publishedAt": "2022-02-03T18:29:23Z",
+      "content": "The structure is more than a bridge to the people of Rotterdam, said Siebe Thissen, the author of the book The Boy Who Jumped From the Bridge, about a working-class man who jumped from the bridge in … [+1373 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Maya Yang",
+      "title": "Rudy Giuliani’s surprise reveal on Masked Singer led to judges walking off - The Guardian",
+      "description": "Ken Jeong and Robin Thicke walked off the stage when the former New York City mayor revealed his identity",
+      "url": "https://amp.theguardian.com/us-news/2022/feb/03/rudy-giuliani-surprise-masked-singer-judges-walking-off",
+      "urlToImage": null,
+      "publishedAt": "2022-02-03T18:15:00Z",
+      "content": "Rudy GiulianiKen Jeong and Robin Thicke walked off the stage when the former New York City mayor revealed his identity\r\nTwo judges on The Masked Singer television show walked off after the contestant… [+1689 chars]"
+    }
+  ]
+}
